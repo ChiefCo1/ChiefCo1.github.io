@@ -1,7 +1,9 @@
 img {
     width: 200px;
+    filter: saturate(6);
 }
 body {
     text-align: center;
     font-family: "Arial";
+    font-size: x-large;
 }
